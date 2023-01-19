@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 xxjndskuzbx hshd
+=======
+hell o g
+>>>>>>> alien-plot
